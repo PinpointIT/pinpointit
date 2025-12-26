@@ -22,7 +22,7 @@ Primäres Ziel:
 > Kompetenz, Präzision und technologische Tiefe vermitteln – nicht Marketing-Lautstärke.
 
 ## Technologischer Rahmen
-- Framework: Astro
+- Framework: Astro (neue Version 5.0+)
 - Basis: AstroWind (stark reduziert & angepasst)
 - Styling: Tailwind CSS
 - Deployment: GitHub Pages (static build)
