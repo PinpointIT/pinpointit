@@ -23,6 +23,8 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
 
 export default defineConfig({
   output: 'static',
+  site: 'https://pinpointit.github.io',
+  base: '/pinpointit',
 
   integrations: [
     tailwind({
